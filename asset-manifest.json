@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.397d0a8c.css",
+    "main.js": "/static/js/main.ff7b0215.js",
+    "static/js/592.fc02230f.chunk.js": "/static/js/592.fc02230f.chunk.js",
+    "static/media/footpic.png": "/static/media/footpic.0d3277ad32a3abcf46fc.png",
+    "static/media/logo.png": "/static/media/logo.c47e3ffc2b3a9526aeb7.png",
+    "static/media/young-fam.jpeg": "/static/media/young-fam.14d0e24fb30b32487bcd.jpeg",
+    "static/media/carousel-2.jpeg": "/static/media/carousel-2.07ffe70263670d59bed3.jpeg",
+    "static/media/QuestionPic.png": "/static/media/QuestionPic.174e75f6638711a6151a.png",
+    "static/media/partner.png": "/static/media/partner.7b9b12e7e76f1129dc23.png",
+    "static/media/myNgovo.jpg": "/static/media/myNgovo.2e953e2ef0b3224e6904.jpg",
+    "static/media/ContactUs.png": "/static/media/ContactUs.e0cd5d56d80ec22b34d8.png",
+    "static/media/employee-pic.png": "/static/media/employee-pic.fb50b9c3992ff8fd9027.png",
+    "static/media/choosing.png": "/static/media/choosing.4ca91582d294dfe60e54.png",
+    "index.html": "/index.html",
+    "main.397d0a8c.css.map": "/static/css/main.397d0a8c.css.map",
+    "main.ff7b0215.js.map": "/static/js/main.ff7b0215.js.map",
+    "592.fc02230f.chunk.js.map": "/static/js/592.fc02230f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397d0a8c.css",
+    "static/js/main.ff7b0215.js"
+  ]
+}
